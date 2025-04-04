@@ -1,0 +1,7 @@
+2025-04-04 07:34:29.269268 - Received CBT.V508.FILE304.PDS from FILE304.XMI 
+2025-04-04 07:34:29.269959 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE304.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:34:29.270094 - Found $$README.txt (text/plain) in CBT.V508.FILE304.PDS, moved to PDS/$$README
+2025-04-04 07:34:29.270228 - Found @FILE304.txt (text/plain) in CBT.V508.FILE304.PDS, moved to PDS/@FILE304
+2025-04-04 07:34:29.270390 - Found ASM.txt (text/plain) in CBT.V508.FILE304.PDS, moved to PDS/ASM
+2025-04-04 07:34:29.270540 - Found CMD.bin (application/octet-stream) in CBT.V508.FILE304.PDS, moved to PDS/CMD
+2025-04-04 07:34:29.270676 - Found HELP.bin (application/octet-stream) in CBT.V508.FILE304.PDS, moved to PDS/HELP
